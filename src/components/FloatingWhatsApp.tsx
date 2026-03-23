@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react';
 export default function FloatingWhatsApp() {
   return (
     <motion.a
-      href="https://wa.me/94720649128"
+      href="https://wa.me/94741671668"
       target="_blank"
       rel="noopener noreferrer"
       initial={{ scale: 0 }}
