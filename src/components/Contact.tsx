@@ -11,7 +11,7 @@ export default function Contact() {
     
     // Create WhatsApp URL
     const text = `Hi Snap Vibe! My name is ${name}. Phone: ${phone}. Message: ${message}`;
-    const whatsappUrl = `https://wa.me/94720649128?text=${encodeURIComponent(text)}`;
+    const whatsappUrl = `https://wa.me/94741671668?text=${encodeURIComponent(text)}`;
     window.open(whatsappUrl, '_blank');
   };
 
